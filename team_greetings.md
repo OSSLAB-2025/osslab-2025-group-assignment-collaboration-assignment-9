@@ -1,5 +1,10 @@
-221B123: Hello from me!
-221B786: Hi, good to collaborate!
-221B456: hello
-231V676: kjk
-241b667: oye
+<<<<<<< HEAD
+231B389: Hello FROM MY SIDE.
+
+231B390: Hello
+
+231B391: Hello
+=======
+231B391: Hello 
+>>>>>>> 0ed7274c21d447a4c947abe053e128ddf392e157
+
